@@ -107,4 +107,4 @@ if calquestion == "c":
         else:
             print("Operación no válida. Intenta de nuevo.\n")
 
-print("Gracias probar la beta la terminare en algunos dias")
+print("Gracias probar la beta la terminare en algunos dias / Thanks for trying the beta; I'll finish it in a few days.")
